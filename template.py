@@ -5,7 +5,7 @@ import logging
 logging.basicConfig(level=logging.INFO, format='[%(asctime)s]: %(message)s: ')
 # print(path("x/y/z.txt"))
 
-package_name = "deep classifier"
+package_name = "deepClassifier"
 
 list_of_files = [
     ".github/workflows/.gitkeep",        ## .gitkeep to push empty folder
